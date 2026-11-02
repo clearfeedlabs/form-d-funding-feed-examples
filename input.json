@@ -1,0 +1,19 @@
+{
+  "lookbackDays": 14,
+  "minAmountSold": 10000000,
+  "filingType": "new",
+  "maxFilings": 15,
+  "mode": "dateRange",
+  "dedupeAmendments": false,
+  "states": [],
+  "industryGroups": [],
+  "excludePooledFunds": true,
+  "exemptions": [],
+  "includeRelatedPersons": true,
+  "enrichWebsite": true,
+  "joinJobs": false,
+  "probeAtsBySlug": true,
+  "includeJobList": false,
+  "onlyHiring": false,
+  "companyDomains": []
+}

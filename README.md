@@ -35,6 +35,12 @@ See `sample-output.json` for one trimmed record.
 ## Pricing
 Pay per result: **$2.00 per 1,000 filings**, with no subscription. The [Store page](https://apify.com/clearfeedlabs/form-d-funding-feed) always shows current prices and every optional add-on event.
 
+## Related Clearfeed Labs Actors
+- [Company Contact Scraper: Domain to Email, Phone & Socials](https://apify.com/clearfeedlabs/company-contact-enrichment): emails, phones and socials for a list of domains
+- [ATS Jobs Scraper API: Greenhouse, Lever, Ashby & Recruitee](https://apify.com/clearfeedlabs/ats-jobs-feed): live job postings from company ATS boards
+- [SEC Form 4 Insider Trading Tracker & Scraper API](https://apify.com/clearfeedlabs/form4-insider-trades): insider buys and sells from SEC Form 4
+- [All Clearfeed Labs Actors](https://apify.com/clearfeedlabs)
+
 ## FAQ
 **Is this data official?** Yes. It comes from the public source named above, and each record links back to it.
 **Do I need a login or proxy?** No. It uses documented public endpoints only.

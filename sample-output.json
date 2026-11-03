@@ -1,28 +1,28 @@
 {
-  "accessionNumber": "0001535160-26-000003",
+  "accessionNumber": "0002163386-26-000001",
   "formType": "D",
   "isAmendment": false,
   "previousAccessionNumber": null,
-  "filedDate": "2026-10-28",
-  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1535160/000153516026000003/0001535160-26-000003-index.htm",
-  "cik": "1535160",
-  "issuerName": "Energy Materials Corp",
+  "filedDate": "2026-11-03",
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/2163386/000216338626000001/0002163386-26-000001-index.htm",
+  "cik": "2163386",
+  "issuerName": "Yipio Inc.",
   "entityType": "Corporation",
   "jurisdictionOfInc": "DELAWARE",
   "yearOfInc": null,
-  "incorporatedWithinFiveYears": null,
+  "incorporatedWithinFiveYears": true,
   "address": {
-    "street1": "2595 Brighton Henrietta Townline Road",
+    "street1": "2551 ALAMO COUNTRY CIRCLE",
     "street2": null,
-    "city": "ROCHESTER",
-    "state": "NY",
-    "stateDescription": "NEW YORK",
-    "zip": "14623"
+    "city": "ALAMO",
+    "state": "CA",
+    "stateDescription": "CALIFORNIA",
+    "zip": "94507"
   },
-  "companyPhone": "610-256-9475",
-  "industryGroup": "Other Energy",
+  "companyPhone": "5104499861",
+  "industryGroup": "Computers",
   "fundType": null,
-  "revenueRange": "Decline to Disclose",
+  "revenueRange": "No Revenues",
   "federalExemptions": [
     "06b"
   ],
@@ -30,14 +30,59 @@
   "yetToOccur": false,
   "moreThanOneYear": false,
   "securitiesTypes": [
-    "Equity"
+    "OptionToAcquire"
   ],
-  "minimumInvestment": 0,
-  "totalOfferingAmount": null,
-  "offeringIndefinite": true,
-  "isIndefinite": true,
-  "totalAmountSold": 41647490,
-  "totalRemaining": null,
-  "totalRemainingIndefinite": true,
-  "percentSold": null
+  "minimumInvestment": 15000,
+  "totalOfferingAmount": 1500000,
+  "offeringIndefinite": false,
+  "isIndefinite": false,
+  "totalAmountSold": 30000,
+  "totalRemaining": 1470000,
+  "totalRemainingIndefinite": false,
+  "percentSold": 2,
+  "hasNonAccreditedInvestors": false,
+  "investorCount": 2,
+  "salesCommissionsUsd": 0,
+  "findersFeesUsd": 0,
+  "relatedPersons": [
+    {
+      "name": "Gagan Singh Hothi",
+      "relationships": [
+        "Executive Officer",
+        "Director"
+      ],
+      "clarification": null
+    }
+  ],
+  "previousNames": [],
+  "executives": [
+    "Gagan Singh Hothi"
+  ],
+  "directors": [
+    "Gagan Singh Hothi"
+  ],
+  "promoters": [],
+  "signerName": "Gagan Hothi",
+  "signerTitle": "CEO",
+  "signatureDate": "2026-11-03",
+  "fileNumber": "021-603438",
+  "originalAccessionNumber": "0002163386-26-000001",
+  "amendmentSequence": 0,
+  "amendmentCount": null,
+  "isLatestVersion": null,
+  "latestAccessionNumber": null,
+  "secProfile": null,
+  "website": null,
+  "websiteDomain": null,
+  "websiteSource": null,
+  "websiteConfidence": "none",
+  "websiteEvidence": "no website in SEC data or companyDomains",
+  "filedAt": "2026-11-03",
+  "offeringTarget": 1500000,
+  "amountSold": 30000,
+  "websiteMatchMethod": "none",
+  "countAsNewRaise": true,
+  "raiseLineageAccession": "0002163386-26-000001",
+  "hiring": null,
+  "scrapedAt": "2026-11-03T20:39:38.091Z"
 }

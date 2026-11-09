@@ -4,6 +4,9 @@ Daily feed of new SEC Form D private raises from official EDGAR data, filtered b
 
 This repo shows how to call the [SEC Form D Funding Feed](https://apify.com/clearfeedlabs/form-d-funding-feed) Apify Actor from JavaScript or Python, and what the output looks like.
 
+## Video walkthrough
+[Recent SEC Form D tech filers: original vs amendment (Apify sample)](https://youtu.be/kO95b90vcAE)
+
 ## What's new
 - `executives`, `directors`, `promoters` lists and the filing signer (`signerName`, `signerTitle`, `signatureDate`).
 
@@ -49,6 +52,7 @@ Pay per result: **$2.00 per 1,000 filings**, with no subscription. The [Store pa
 ## Links
 - Actor on the Apify Store: https://apify.com/clearfeedlabs/form-d-funding-feed
 - Details & pricing: https://clearfeedlabs.com/actors/form-d-funding-feed/
+- Official MCP Registry server details: https://registry.modelcontextprotocol.io/v0.1/servers/com.clearfeedlabs%2Fapify-data-feeds/versions/latest
 - Clearfeed Labs: https://clearfeedlabs.com
 - Bugs or questions: open an issue on the Actor's Issues tab on Apify.
 
